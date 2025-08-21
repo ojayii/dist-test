@@ -1,0 +1,379 @@
+{
+  "auth": {
+    "email": "Email",
+    "password": "Mot de passe",
+    "login": {
+      "title": "Se connecter",
+      "subtitle": "Sélectionnez une option pour vous connecter.",
+      "passwordPlaceholder": "Entrez votre mot de passe",
+      "switchButton": "Vous n'avez pas de compte ? "
+    },
+    "signup": {
+      "title": "S'inscrire",
+      "subtitle": "Sélectionnez une option pour vous inscrire.",
+      "name": "Nom",
+      "namePlaceholder": "Entrez votre nom",
+      "passwordPlaceholder": "Choisissez un mot de passe fort",
+      "confirmPasswordPlaceholder": "Confirmez votre mot de passe",
+      "switchButton": "Vous avez déjà un compte ? ",
+      "createButton": "Créer un compte"
+    }
+  },
+  "onboarding": {
+    "welcome": {
+      "firstSlide": {
+        "title": "Réservez votre expérience salon parfaite",
+        "description": "Découvrez les salons les mieux notés près de chez vous et réservez des rendez-vous en quelques clics."
+      },
+      "secondSlide": {
+        "title": "Vos rendez-vous, tous au même endroit",
+        "description": "Gardez une trace de toutes vos réservations, recevez des rappels et gérez votre planning beauté sans effort."
+      },
+      "thirdSlide": {
+        "title": "Connectez-vous avec des professionnels de la beauté",
+        "description": "Chattez avec des stylistes, partagez vos préférences et obtenez des recommandations personnalisées pour votre prochain look."
+      },
+      "primaryButton": "Commencer",
+      "secondaryButton": "Suivant"
+    },
+    "roleSelection": {
+      "title": "Comment allez-vous utiliser Tokos ?",
+      "subtitle": "Choisissez votre rôle pour commencer.",
+      "consumer": {
+        "title": "Je cherche des services de salon.",
+        "description": "Réservez des rendez-vous, découvrez de nouveaux salons et gérez votre routine beauté."
+      },
+      "provider": {
+        "title": "Je suis propriétaire de salon/styliste.",
+        "description": "Gérez votre salon, acceptez les réservations et développez votre entreprise."
+      }
+    },
+    "consumerServices": {
+      "title": "Quels services vous intéressent ?",
+      "subtitle": "Sélectionnez tout ce qui s'applique pour personnaliser votre expérience",
+      "button": "Continuer",
+      "services": {
+        "haircut": "Coupe & Coiffure",
+        "coloring": "Coloration cheveux",
+        "manicure": "Manucure & Pédicure",
+        "facial": "Soins du visage",
+        "massage": "Massage thérapeutique",
+        "eyebrows": "Services sourcils",
+        "makeup": "Services maquillage",
+        "waxing": "Services épilation"
+      }
+    },
+    "providerInfo": {
+      "title": "Parlez-nous de votre salon.",
+      "subtitle": "Aidez les clients à trouver et à se connecter avec votre entreprise",
+      "phoneNumber": "Numéro de téléphone",
+      "salonName": "Nom du salon",
+      "location": "Emplacement",
+      "selectLocation": "Sélectionner l'emplacement sur la carte",
+      "exampleSalonName": "Salon Paradis Beauté"
+    },
+    "providerServices": {
+      "title": "Quels services offrez-vous ?",
+      "subtitle": "Sélectionnez tous les services que vous proposez dans votre salon",
+      "priceHeader": "Fourchette typique",
+      "services": {
+        "haircut": "Coupe & Coiffure",
+        "coloring": "Coloration cheveux",
+        "highlights": "Mèches/Balayage",
+        "perm": "Permanentes & Défrisages",
+        "manicure": "Manucure",
+        "pedicure": "Pédicure",
+        "facial": "Soins du visage",
+        "massage": "Massage thérapeutique",
+        "eyebrows": "Services sourcils",
+        "makeup": "Application maquillage",
+        "waxing": "Services épilation",
+        "extensions": "Extensions cheveux"
+      }
+    },
+    "profileSetup": {
+      "title": "Vous êtes presque prêt !",
+      "consumerDescription": "Complétez votre profil pour obtenir des recommandations de salons personnalisées et réservez votre premier rendez-vous.",
+      "providerDescription": "Configurez votre profil de salon pour commencer à accepter les réservations et présenter vos services aux clients potentiels.",
+      "setupButton": "Configurer le profil",
+      "skipButton": "Passer pour l'instant"
+    }
+  },
+  "consumerDashboard": {
+    "welcomeMessage": "Bon retour",
+    "searchInputPlaceholder": "Rechercher des salons...",
+    "latestVisits": "Dernières visites",
+    "topRated": "Les mieux notés",
+    "explore": "Explorer"
+  },
+  "providerDashboard": {
+    "scheduleCard": {
+      "title": "Planning d'aujourd'hui",
+      "subtitle": "rendez-vous"
+    },
+    "promotion": {
+      "convert": {
+        "title": "Vous voulez convertir plus de clients ?",
+        "buttonText": "Booster le profil"
+      }
+    },
+    "statsCard": {
+      "title": "Rétention",
+      "subtitle": "30 derniers jours"
+    },
+    "statsCard2": {
+      "title": "Productivité",
+      "subtitle": "30 derniers jours"
+    },
+    "newClientsCard": {
+      "title": "Nouveaux clients",
+      "subtitle": "30 derniers jours",
+      "label1": "CARRÉ",
+      "label2": "Autre"
+    },
+    "quickActions": {
+      "title": "Actions rapides",
+      "viewBookings": "Voir les réservations",
+      "addService": "Ajouter un service",
+      "updateGallery": "Mettre à jour la galerie",
+      "blockTime": "Bloquer du temps",
+      "viewClients": "Voir les clients",
+      "earnings": "Gains",
+      "settings": "Paramètres"
+    },
+    "tapToPayCard": {
+      "title": "Tap to Pay",
+      "subtitle": "Acceptez les paiements sans contact et par puce en personne sur iPhone"
+    }
+  },
+  "services": {
+    "title": "Mes services"
+  },
+  "serviceInfo": {
+    "title": "Gérer le service",
+    "startingAt": "À partir de",
+    "status": {
+      "active": "Actif",
+      "inactive": "Inactif"
+    },
+    "statisticsCard": {
+      "title": "Statistiques",
+      "subtitle": "30 derniers jours"
+    },
+    "statsCard": {
+      "title1": "Réservations",
+      "title2": "Revenus"
+    },
+    "controls": {
+      "title": "Contrôles",
+      "serviceStatus": "Statut du service",
+      "deleteService": "Supprimer le service"
+    },
+    "alert": {
+      "title": "Supprimer le service",
+      "prompt": "Êtes-vous sûr de vouloir supprimer {{serviceName}} ? Cette action ne peut pas être annulée.",
+      "cancelButton": "Annuler",
+      "deleteButton": "Supprimer"
+    },
+    "notFound": {
+      "title": "Service non trouvé",
+      "subtitle": "Service non trouvé"
+    }
+  },
+  "appointments": {
+    "title": "Rendez-vous"
+  },
+  "notifications": {
+    "title": "Notifications"
+  },
+  "searchScreen": {
+    "title": "Recherche",
+    "inputPlaceholder": "Rechercher des services",
+    "recentSearches": "Recherches récentes",
+    "discover": "Découvrir",
+    "categories": "Catégories populaires"
+  },
+  "saved": {
+    "title": "Sauvegardé"
+  },
+  "find": {
+    "title": "Trouver des salons",
+    "searchInputPlaceholder": "Rechercher un emplacement",
+    "nearby": "Salons à proximité",
+    "found": "trouvé"
+  },
+  "inbox": {
+    "title": "Boîte de réception"
+  },
+  "chatThread": {
+    "onlineStatus": {
+      "online": "En ligne",
+      "offline": "Hors ligne",
+      "lastSeen": "Dernière connexion à"
+    },
+    "typing": "est en train d'écrire...",
+    "messagePlaceholder": "Message"
+  },
+  "profile": {
+    "title": "Profil",
+    "menu": {
+      "account": "Compte",
+      "wallet": "Portefeuille",
+      "transactions": "Transactions",
+      "appointments": "Rendez-vous",
+      "paymentSettings": "Paramètres de paiement",
+      "managePassword": "Gérer le mot de passe",
+      "notificationSettings": "Paramètres de notification",
+      "language": "Langue",
+      "helpCenter": "Centre d'aide",
+      "logout": "Déconnexion"
+    }
+  },
+  "wallet": {
+    "title": "Portefeuille",
+    "today": "Aujourd'hui",
+    "withdraw": "Retirer",
+    "topServices": "Services principaux",
+    "transactions": "Transactions",
+    "seeMore": "Voir plus",
+    "insights": "Aperçus",
+    "lineChartTitle": "Tendance des revenus",
+    "pieChartTitle": "Distribution des services"
+  },
+  "language": {
+    "title": "Langue",
+    "subtitle": "Sélectionnez votre langue préférée"
+  },
+  "salonProfile": {
+    "reviews": "Avis",
+    "about": "À propos",
+    "gallery": "Galerie",
+    "services": "Services",
+    "seeMore": "Voir plus",
+    "bookNowButton": "Réserver maintenant"
+  },
+  "salonGallery": {
+    "title": "galerie",
+    "photosTab": "Photos",
+    "videosTab": "Vidéos"
+  },
+  "salonBookScreen": {
+    "title": "Réserver",
+    "services": "Services",
+    "date": "Date",
+    "time": "Heure",
+    "bookButton": "Réserver"
+  },
+  "salonPaymentScreen": {
+    "title": "Paiement",
+    "methods": {
+      "title": "Méthodes de paiement",
+      "applePay": "Apple Pay",
+      "googlePay": "Google Pay",
+      "creditCard": "Carte de crédit",
+      "paypal": "PayPal",
+      "cash": "Espèces"
+    },
+    "total": "Total",
+    "payButton": "Payer"
+  },
+  "paymentStatusModal": {
+    "success": {
+      "title": "Paiement réussi !",
+      "message": "Votre réservation a été confirmée",
+      "buttonText": "Voir la réservation"
+    },
+    "pending": {
+      "title": "Traitement du paiement...",
+      "message": "Veuillez patienter pendant que nous traitons votre paiement"
+    },
+    "failed": {
+      "title": "Paiement échoué",
+      "message": "Quelque chose s'est mal passé avec votre paiement",
+      "buttonText": "Réessayer"
+    },
+    "doneButton": "Terminé",
+    "cancelButton": "Annuler",
+    "amount": "Montant",
+    "paymentStatus": "Statut du paiement",
+    "successful": "Réussi",
+    "bookingId": "ID de réservation"
+  },
+  "providerCard": {
+    "status": {
+      "open": "OUVERT MAINTENANT",
+      "closed": "Fermé"
+    },
+    "bookButton": "Réserver maintenant"
+  },
+  "serviceCard": {
+    "type": {
+      "view": "Voir le service",
+      "manage": "Gérer le service"
+    },
+    "startsAt": "Commence à"
+  },
+  "tabs": {
+    "consumer": {
+      "home": "Accueil",
+      "saved": "Sauvegardé",
+      "find": "Trouver",
+      "inbox": "Boîte de réception",
+      "profile": "Profil"
+    },
+    "provider": {
+      "home": "Tableau de bord",
+      "appointments": "Rendez-vous",
+      "services": "Services",
+      "inbox": "Boîte de réception",
+      "profile": "Profil"
+    }
+  },
+  "serviceFormModal": {
+    "title": {
+      "add": "Ajouter un nouveau service",
+      "edit": "Modifier le service"
+    },
+    "serviceName": "Nom du service",
+    "startingPrice": "Prix de départ",
+    "serviceMedia": "Média du service",
+    "serviceMediaSubtitle": "Appuyez pour ajouter un média",
+    "buttons": {
+      "add": "Ajouter le service",
+      "edit": "Mettre à jour le service",
+      "cancel": "Annuler"
+    }
+  },
+  "bookingCard": {
+    "status": {
+      "upcoming": "À venir",
+      "completed": "Terminé",
+      "cancelled": "Annulé"
+    }
+  },
+
+  "general": {
+    "services": {
+      "haircut": "Coupe & Coiffure",
+      "coloring": "Coloration cheveux",
+      "highlights": "Mèches/Balayage",
+      "perm": "Permanentes & Défrisages",
+      "manicure": "Manucure",
+      "pedicure": "Pédicure",
+      "facial": "Soins du visage",
+      "massage": "Massage thérapeutique",
+      "eyebrows": "Services sourcils",
+      "makeup": "Application maquillage",
+      "waxing": "Services épilation",
+      "extensions": "Extensions cheveux"
+    },
+    "months": {
+      "Jan": "Jan",
+      "Feb": "Fév",
+      "Mar": "Mar",
+      "Apr": "Avr",
+      "May": "Mai",
+      "Jun": "Juin"
+    }
+  }
+}

@@ -1,0 +1,380 @@
+{
+    "auth": {
+        "email": "Email",
+        "password": "Password",
+        "login": {
+            "title": "Log in",
+            "subtitle": "Select an option to login.",
+            "passwordPlaceholder": "Enter your password",
+            "switchButton": "Don't have an account? "
+        },
+        "signup": {
+            "title": "Sign up",
+            "subtitle": "Select an option to sign up.",
+            "name": "Name",
+            "namePlaceholder": "Enter your name",
+            "passwordPlaceholder": "Pick a strong password",
+            "confirmPasswordPlaceholder": "Confirm your password",
+            "switchButton": "Already have an account? ",
+            "createButton": "Create account"
+        }
+    },
+    "onboarding": {
+        "welcome": {
+            "firstSlide": {
+                "title": "Book your perfect salon experience",
+                "description": "Discover top-rated salons near you and book appointments with just a few taps."
+            },
+            "secondSlide": {
+                "title": "Your appointments, all in one place",
+                "description": "Keep track of all your bookings, receive reminders, and manage your beauty schedule effortlessly."
+            },
+            "thirdSlide": {
+                "title": "Connect with beauty professionals",
+                "description": "Chat with stylists, share your preferences, and get personalized recommendations for your next look."
+            },
+            "primaryButton": "Get Started",
+            "secondaryButton": "Next"
+        },
+        "roleSelection": {
+            "title": "How will you use Tokos?",
+            "subtitle": "Choose your role to get started.",
+            "consumer": {
+                "title": "I'm looking for salon services.",
+                "description": "Book appointments, discover new salons, and manage your beauty routine."
+            },
+            "provider": {
+                "title": "I'm a salon owner/stylist.",
+                "description": "Manage your salon, accept bookings, and grow your business."
+            }
+        },
+        "consumerServices": {
+            "title": "What services are you interested in?",
+            "subtitle": "Select all that apply to personalize your experience",
+            "button": "Continue",
+            "services": {
+                "haircut": "Haircut & Styling",
+                "coloring": "Hair Coloring",
+                "manicure": "Manicure & Pedicure",
+                "facial": "Facial Treatments",
+                "massage": "Massage Therapy",
+                "eyebrows": "Eyebrow Services",
+                "makeup": "Makeup Services",
+                "waxing": "Waxing Services"
+            }
+        },
+        "providerInfo": {
+            "title": "Tell us about your salon.",
+            "subtitle": "Help customers find and connect with your business",
+            "phoneNumber": "Phone Number",
+            "salonName": "Salon Name",
+            "location": "Location",
+            "selectLocation": "Select location on map",
+            "exampleSalonName": "Beauty Paradise Salon"
+        },
+        "providerServices": {
+            "title": "What services do you offer?",
+            "subtitle": "Select all services you provide at your salon",
+            "priceHeader": "Typical range",
+            "services": {
+                "haircut": "Haircut & Styling",
+                "coloring": "Hair Coloring",
+                "highlights": "Highlights/Lowlights",
+                "perm": "Perms & Relaxers",
+                "manicure": "Manicure",
+                "pedicure": "Pedicure",
+                "facial": "Facial Treatments",
+                "massage": "Massage Therapy",
+                "eyebrows": "Eyebrow Services",
+                "makeup": "Makeup Application",
+                "waxing": "Waxing Services",
+                "extensions": "Hair Extensions"
+            }
+        },
+        "profileSetup": {
+            "title": "You're almost ready!",
+            "consumerDescription": "Complete your profile to get personalized salon recommendations and book your first appointment.",
+            "providerDescription": "Set up your salon profile to start accepting bookings and showcase your services to potential clients.",
+            "setupButton": "Set Up Profile",
+            "skipButton": "Skip for now"
+        }
+    },
+    "consumerDashboard": {
+        "welcomeMessage": "Welcome back",
+        "searchInputPlaceholder": "Search Salons...",
+        "latestVisits": "Latest Visits",
+        "topRated": "Top Rated",
+        "explore": "Explore"
+    },
+    "providerDashboard": {
+        "scheduleCard": {
+            "title": "Today's schedule",
+            "subtitle": "appointments"
+        },
+        "promotion": {
+            "convert": {
+                "title": "Want to Convert more clients?",
+                "buttonText": "Boost Profile"
+            }
+        },
+        "statsCard": {
+            "title": "Retention",
+            "subtitle": "Past 30 days"
+        },
+        "statsCard2": {
+            "title": "Productivity",
+            "subtitle": "Past 30 days"
+        },
+        "newClientsCard": {
+            "title": "New clients",
+            "subtitle": "Past 30 days",
+            "label1": "SQUARE",
+            "label2": "Other"
+        },
+        "quickActions": {
+            "title": "Quick Actions",
+            "viewBookings": "View Bookings",
+            "addService": "Add Service",
+            "updateGallery": "Update Gallery",
+            "blockTime": "Block Time",
+            "viewClients": "View Clients",
+            "earnings": "Earnings",
+            "settings": "Settings"
+        },
+        "tapToPayCard": {
+            "title": "Tap to Pay",
+            "subtitle": "Accept in-person contactless and chip payments on iPhone"
+        }
+    },
+    "services": {
+        "title": "My Services"
+    },
+    "serviceInfo": {
+        "title": "Manage Service",
+        "startingAt": "Starting at",
+        "status": {
+            "active": "Active",
+            "inactive": "Inactive"
+        },
+        "statisticsCard": {
+            "title": "Statistics",
+            "subtitle": "Past 30 days"
+        },
+        "statsCard": {
+            "title1": "Bookings",
+            "title2": "Revenue"
+        },
+        "controls": {
+            "title": "Controls",
+            "serviceStatus": "Service Status",
+            "deleteService": "Delete Service"
+        },
+        "alert": {
+            "title": "Delete Service",
+            "prompt": "Are you sure you want to delete {{serviceName}}? This action cannot be undone.",
+            "cancelButton": "Cancel",
+            "deleteButton": "Delete"
+        },
+
+        "notFound": {
+            "title": "Service Not Found",
+            "subtitle": "Service not found"
+        }
+    },
+    "appointments": {
+        "title": "Appointments"
+    },
+    "notifications": {
+        "title": "Notifications"
+    },
+    "searchScreen": {
+        "title": "Search",
+        "inputPlaceholder": "Search services",
+        "recentSearches": "Recent Searches",
+        "discover": "Discover",
+        "categories": "Popular Categories"
+    },
+    "saved": {
+        "title": "Saved"
+    },
+    "find": {
+        "title": "Find Salons",
+        "searchInputPlaceholder": "Search for location",
+        "nearby": "Nearby Salons",
+        "found": "found"
+    },
+    "inbox": {
+        "title": "Inbox"
+    },
+    "chatThread": {
+        "onlineStatus": {
+            "online": "Online",
+            "offline": "Offline",
+            "lastSeen": "Last seen at"
+        },
+        "typing": "is typing...",
+        "messagePlaceholder": "Message"
+    },
+    "profile": {
+        "title": "Profile",
+        "menu": {
+            "account": "Account",
+            "wallet": "Wallet",
+            "transactions": "Transactions",
+            "appointments": "Appointments",
+            "paymentSettings": "Payment settings",
+            "managePassword": "Manage password",
+            "notificationSettings": "Notification settings",
+            "language": "Language",
+            "helpCenter": "Help center",
+            "logout": "Logout"
+        }
+    },
+    "wallet": {
+        "title": "Wallet",
+        "today": "Today",
+        "withdraw": "Withdraw",
+        "topServices": "Top services",
+        "transactions": "Recent Transactions",
+        "seeMore": "See more",
+        "insights": "Insights",
+        "lineChartTitle": "Revenue trend",
+        "pieChartTitle": "Service distribution"
+    },
+    "language": {
+        "title": "Language",
+        "subtitle": "Select your preferred language"
+    },
+    "salonProfile": {
+        "reviews": "Reviews",
+        "about": "About",
+        "gallery": "Gallery",
+        "services": "Services",
+        "seeMore": "See more",
+        "bookNowButton": "Book now"
+    },
+    "salonGallery": {
+        "title": "Gallery",
+        "photosTab": "Photos",
+        "videosTab": "Videos"
+    },
+    "salonBookScreen": {
+        "title": "Book",
+        "services": "Services",
+        "date": "Date",
+        "time": "Time",
+        "bookButton": "Book"
+    },
+    "salonPaymentScreen": {
+        "title": "Payment",
+        "methods": {
+            "title": "Payment Methods",
+            "applePay": "Apple pay",
+            "googlePay": "Google pay",
+            "creditCard": "Credit card",
+            "paypal": "PayPal",
+            "cash": "Cash"
+        },
+        "total": "Total",
+        "payButton": "Pay"
+    },
+    "paymentStatusModal": {
+        "success": {
+            "title": "Payment Success!",
+            "message": "Your booking has been confirmed",
+            "buttonText": "View Booking"
+        },
+        "pending": {
+            "title": "Processing Payment...",
+            "message": "Please wait while we process your payment"
+        },
+        "failed": {
+            "title": "Payment Failed",
+            "message": "Something went wrong with your payment",
+            "buttonText": "Try Again"
+        },
+        "doneButton": "Done",
+        "cancelButton": "Cancel",
+        "amount": "Amount",
+        "paymentStatus": "Payment Status",
+        "successful": "Successful",
+        "bookingId": "Booking ID"
+    },
+    "providerCard": {
+        "status": {
+            "open": "OPEN NOW",
+            "closed": "Closed"
+        },
+        "bookButton": "Book Now"
+    },
+    "serviceCard": {
+        "type": {
+            "view": "View Service",
+            "manage": "Manage Service"
+        },
+        "startsAt": "Starts at"
+    },
+    "tabs": {
+        "consumer": {
+            "home": "Home",
+            "saved": "Saved",
+            "find": "Find",
+            "inbox": "Inbox",
+            "profile": "Profile"
+        },
+        "provider": {
+            "home": "Dashboard",
+            "appointments": "Appointments",
+            "services": "Services",
+            "inbox": "Inbox",
+            "profile": "Profile"
+        }
+    },
+    "serviceFormModal": {
+        "title": {
+            "add": "Add New Service",
+            "edit": "Edit Service"
+        },
+        "serviceName": "Service Name",
+        "startingPrice": "Starting Price",
+        "serviceMedia": "Service Media",
+        "serviceMediaSubtitle": "Tap to add media",
+        "buttons": {
+            "add": "Add Service",
+            "edit": "Update Service",
+            "cancel": "Cancel"
+        }
+    },
+    "bookingCard": {
+        "status": {
+            "upcoming": "Upcoming",
+            "completed": "Completed",
+            "cancelled": "Cancelled"
+        }
+    },
+
+    "general": {
+        "services": {
+            "haircut": "Haircut & Styling",
+            "coloring": "Hair Coloring",
+            "highlights": "Highlights/Lowlights",
+            "perm": "Perms & Relaxers",
+            "manicure": "Manicure",
+            "pedicure": "Pedicure",
+            "facial": "Facial Treatments",
+            "massage": "Massage Therapy",
+            "eyebrows": "Eyebrow Services",
+            "makeup": "Makeup Application",
+            "waxing": "Waxing Services",
+            "extensions": "Hair Extensions"
+        },
+        "months": {
+            "Jan": "Jan",
+            "Feb": "Feb",
+            "Mar": "Mar",
+            "Apr": "Apr",
+            "May": "May",
+            "Jun": "Jun"
+        }
+    }
+}
